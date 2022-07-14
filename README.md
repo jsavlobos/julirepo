@@ -1,2 +1,2 @@
 # juli repo
-# This code prints lyric of song
+This code prints lyric of song
