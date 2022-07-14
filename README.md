@@ -1,2 +1,2 @@
-# julirepo
-# This code prints hello world and does simple calculation
+# juli repo
+# This code prints lyric of song
